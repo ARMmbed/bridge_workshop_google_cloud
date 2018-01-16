@@ -58,5 +58,6 @@ Links for the workshop
       https://192.168.99.100:8234
 
 "Git" command used to import the bridge container installer:
+
       git clone https://github.com/ARMmbed/connector-bridge-container-installer
 
