@@ -5,10 +5,15 @@ Updates:
 
 - 12/05/2017: Initial checkin of v2.1 workshop release content
 
+- 1/16/2018: Minor updates and format changes to the content
+
 Links for the workshop
 
 - Google Cloud Dashboard
       https://cloud.google.com
+
+- Java 8 JDK Download
+      http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html 
 
 - NetBeans IDE
       https://www.netbeans.org 
@@ -19,8 +24,8 @@ Links for the workshop
 - Windows Putty Serial Terminal:
       http://www.putty.org/
 
-- Docker Toolbox for Windows 7:
-      https://github.com/docker/toolbox/releases/tag/v1.12.2
+- Docker Toolbox for Windows 7/8/10:
+      https://docs.docker.com/toolbox/toolbox_install_windows/
 
 - Docker Engine for Mac (do not install the "Toolbox" version on the mac):
       https://docs.docker.com/engine/installation/mac/
@@ -41,7 +46,7 @@ Links for the workshop
       https://os.mbed.com
 
 - mbed Cloud Portal Dashboard:
-      https://portal.mbedcloud.com
+      https://portal.us-east-1.mbedcloud.com
 
 - K64F Sample Project used in Workshop:
       https://github.com/ARMmbed/mbed-cloud-sample/
@@ -53,5 +58,5 @@ Links for the workshop
       https://192.168.99.100:8234
 
 "Git" command used to import the bridge container installer:
-
       git clone https://github.com/ARMmbed/connector-bridge-container-installer
+
