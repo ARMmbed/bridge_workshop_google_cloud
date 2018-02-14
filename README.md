@@ -3,6 +3,8 @@ Bridge workshop connecting Google Cloud with mbed Cloud
 
 Updates:
 
+- 02/14/2018: Update to v2.3
+
 - 12/05/2017: Initial checkin of v2.1 workshop release content
 
 - 1/16/2018: Minor updates and format changes to the content
