@@ -63,3 +63,6 @@ Links for the workshop
 
       git clone https://github.com/ARMmbed/connector-bridge-container-installer
 
+Bridge Runtime Source (Apache 2 licensed)
+
+      https://github.com/ARMmbed/connector-bridge
