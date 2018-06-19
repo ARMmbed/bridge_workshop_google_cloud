@@ -1,7 +1,11 @@
 # bridge_workshop_google_cloud
 Bridge workshop connecting Google Cloud with mbed Cloud
 
+Please refer to the "-GCR" edition if you wish to deploy your bridge via Google GCR/Containers.
+
 Updates:
+
+- 06/19/2018: Added "GCR Edition": minor workshop variant using GCR instead of local docker engine
 
 - 04/03/2018: Update to v2.4
 
