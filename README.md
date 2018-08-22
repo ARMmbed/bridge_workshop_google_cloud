@@ -73,4 +73,4 @@ Links for the workshop
 
 Bridge Runtime Source (Apache 2 licensed)
 
-      https://github.com/ARMmbed/connector-bridge
+      https://github.com/ARMmbed/pelion-bridge
