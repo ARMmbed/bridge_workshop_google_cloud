@@ -1,9 +1,11 @@
 # bridge_workshop_google_cloud
-Bridge workshop connecting Google Cloud with mbed Cloud
+Bridge workshop connecting Google Cloud with mbed Cloud (Pelion Device Management)
 
 Please refer to the "-GCR" edition if you wish to deploy your bridge via Google GCR/Containers.
 
 Updates:
+
+- 08/22/2018: Update to v2.5 - FYI Connector support has been EOLed 
 
 - 06/19/2018: Added "GCR Edition": minor workshop variant using GCR instead of local docker engine
 
