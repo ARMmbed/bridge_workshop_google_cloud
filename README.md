@@ -5,6 +5,8 @@ Please refer to the "-GCR" edition if you wish to deploy your bridge via Google 
 
 Updates:
 
+- 04/12/2019: Update to v2.6 - Additional IAM configuration updates for GoogleCloud 
+
 - 08/22/2018: Update to v2.5 - FYI Connector support has been EOLed 
 
 - 06/19/2018: Added "GCR Edition": minor workshop variant using GCR instead of local docker engine
